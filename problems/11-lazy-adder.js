@@ -23,7 +23,7 @@ AFTER YOU ARE FINISHED WITH THIS PROBLEM, ASK FOR A CODE REVIEW
 ***********************************************************************/
 
 // Your code here
-
+let lazyAdder = (firstNum) => (thirNum) => (secNum) =>(firstNum += secNum + thirNum);
 /**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
 
 try {
